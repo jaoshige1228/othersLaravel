@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('content')
-    <h3>Laravel on ECS Demo</h3>
+    <h3>見えているか？　この表示は君にとって大いなる一歩だ</h3>
 @endsection
